@@ -1,0 +1,42 @@
+.banner{
+
+	width: 1000px;
+
+}
+
+.images {
+
+	height: 300px;
+
+
+}
+
+.gallery {
+	float: left;
+}
+
+.text {
+	float: left;
+	margin: 10px;
+	
+}
+
+h1{
+
+font-family: 'Noto Sans', sans-serif;
+
+}
+
+h2{
+
+font-family: 'Poppins', sans-serif;
+
+}
+
+
+.Platforms {
+	float: right;
+	margin-top: 300px;
+	width: 20%;
+	
+}
